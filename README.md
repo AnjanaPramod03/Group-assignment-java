@@ -1,2 +1,2 @@
 # Group-assignment-java
-Employee management system  simple crud
+Employee management system  (simple crud)
